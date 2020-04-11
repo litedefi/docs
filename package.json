@@ -1,6 +1,6 @@
 {
-	"name": "oikos-docs",
-	"version": "2.21.8-release-candidate",
+	"name": "@oikos/docs",
+	"version": "0.0.1",
 	"description": "Oikos docs builder",
 	"main": "index.js",
 	"scripts": {
@@ -11,21 +11,20 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/Synthetixio/oikos-docs.git"
+		"url": "git+ssh://git@github.com/oikos-cash/docs.git"
 	},
 	"author": "Oikos",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Synthetixio/oikos-docs/issues"
+		"url": "https://github.com/oikos-cash/docs/issues"
 	},
-	"homepage": "https://github.com/Synthetixio/oikos-docs#readme",
+	"homepage": "https://github.com/oikos-cash/docs#readme",
 	"dependencies": {
 		"@oikos/oikos": "0.0.2",
 		"@oikos/oikos-js": "0.0.1",
 		"axios": "~0.19.2",
 		"moment": "~2.24.0",
-		"numbro": "2.1.2",
-		"oikos": "2.21.8-release-candidate"
+		"numbro": "2.1.2"
 	},
 	"devDependencies": {
 		"eslint": "~6.8.0",
