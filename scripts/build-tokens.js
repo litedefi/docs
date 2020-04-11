@@ -139,12 +139,14 @@ const addOracleParameters = ({ asset, aggregator }) => {
 	);
 };
 
-const content = `
-# Tokens
-
+/*
 !!! Tip "Decentralizing the remaining price feeds"
 		We're in the process of migrating all price feeds to Chainlink's decentralized network.
 		This change is coming with [SIP-36](https://sips.oikos.cash/sips/sip-36).
+*/
+
+const content = `
+# Tokens
 
 ${tokens
 	.sort((a, b) => (a.name > b.name ? 1 : -1))
@@ -152,9 +154,9 @@ ${tokens
 		({ name, asset, symbol, address, decimals, description, index, inverted, aggregator }) =>
 			`## ${name} (${symbol})\n\n` +
 			// Note: Manual addition of SIP-34 check of MKR
-			(asset === 'MKR'
+			/*(asset === 'MKR'
 				? '!!! warning "Suspended"\n\t\tMKR has been suspended due to [SIP-34](https://sips.oikos.cash/sips/sip-34)\n\n'
-				: '') +
+				: '') + */
 			`**Address:** [${address}](https://shasta.tronscan.io/address${address})\n\n` +
 			`**Decimals:** ${decimals}\n\n` +
 			addOracleParameters({ name, asset, aggregator }) +
