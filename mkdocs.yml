@@ -1,0 +1,146 @@
+# Basic project details.
+site_name: 'Oikos System Documentation'
+site_description: 'Decentralised Synthetic Assets'
+site_author: 'Oikos Team'
+site_url: ''
+
+# Links to the core Oikos smart contract repository.
+repo_name: 'oikos-cash/oikos'
+repo_url: 'https://github.com/oikos-cash/oikos'
+
+# Setting `edit_uri` to an empty string disables the edit button, which points to the wrong page.
+# If at some point this documentation is moved into the core oikos repository, then this can be
+# removed.
+edit_uri: ''
+
+docs_dir: 'content'
+
+# This copyright notice will be rendered in the footer.
+copyright: '<a href=https://github.com/oikos-cash/oikos/blob/master/LICENSE>Copyright &copy Oikos 2020</a>'
+
+# Top level headings become tabs at the top due to `tabs: true` in the theme.
+nav:
+  - System Overview:
+      - Home: index.md
+      - Synopsis: synopsis.md
+      - Incentives: incentives.md
+  - Addresses:
+      - '': addresses.md
+  - Releases:
+      - '': releases.md
+  - Tokens:
+      - '': tokens.md
+  #- Historical Data:
+  #    - '': historical-data.md
+  - Libraries:
+      - Home: libraries/index.md
+      - Versioning: libraries/versioning.md
+#      - Examples: libraries/examples.md
+      - oikos: libraries/oikos.md
+      - oikos-js: libraries/oikos-js.md
+  - Smart Contracts:
+      - Architecture: contracts/index.md
+      - Integration Guide: contracts/integration.md
+      - Publisher: contracts/publisher.md
+      - Testing: contracts/testing.md
+      - Libraries:
+          - Math: contracts/Math.md
+          - SafeDecimalMath: contracts/SafeDecimalMath.md
+          - SafeMath: contracts/SafeMath.md
+      - Contracts:
+          - AddressResolver: contracts/AddressResolver.md
+          - DelegateApprovals: contracts/DelegateApprovals.md
+          - Depot: contracts/Depot.md
+          - EscrowChecker: contracts/EscrowChecker.md
+          - EternalStorage: contracts/EternalStorage.md
+          - EtherCollateral: contracts/EtherCollateral.md
+          - Exchanger: contracts/Exchanger.md
+          - ExchangeRates: contracts/ExchangeRates.md
+          - ExchangeState: contracts/ExchangeState.md
+          - ExternStateToken: contracts/ExternStateToken.md
+          - FeePool: contracts/FeePool.md
+          - FeePoolEternalStorage: contracts/FeePoolEternalStorage.md
+          - FeePoolState: contracts/FeePoolState.md
+          - IssuanceEternalStorage: contracts/IssuanceEternalStorage.md
+          - Issuer: contracts/Issuer.md
+          - LimitedSetup: contracts/LimitedSetup.md
+          - Migrations: contracts/Migrations.md
+          - MixinResolver: contracts/MixinResolver.md
+          - MultiCollateralSynth: contracts/MultiCollateralSynth.md
+          - Owned: contracts/Owned.md
+          - Pausable: contracts/Pausable.md
+          - Proxy: contracts/Proxy.md
+          - Proxyable: contracts/Proxyable.md
+          - ProxyERC20: contracts/ProxyERC20.md
+          - PurgeableSynth: contracts/PurgeableSynth.md
+          - RewardEscrow: contracts/RewardEscrow.md
+          - RewardsDistribution: contracts/RewardsDistribution.md
+          - RewardsDistributionRecipient: contracts/RewardsDistributionRecipient.md
+          - SelfDestructible: contracts/SelfDestructible.md
+          - State: contracts/State.md
+          - SupplySchedule: contracts/SupplySchedule.md
+          - Synth: contracts/Synth.md
+          - Oikos: contracts/Oikos.md
+          - SynthetixEscrow: contracts/SynthetixEscrow.md
+          - SynthetixState: contracts/SynthetixState.md
+          - SystemStatus: contracts/SystemStatus.md
+          - TokenState: contracts/TokenState.md
+    #  - Audit History: contracts/audits.md
+
+# These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.
+extra:
+  social:
+    - icon: 'brands/github'
+      link: 'https://github.com/oikos-cash'
+    - icon: 'brands/twitter'
+      link: 'https://twitter.com/oikos_cash'
+    - icon: 'brands/discord'
+      link: 'https://discord.gg/7KVqe9'
+    - icon: 'brands/reddit'
+      link: 'https://www.reddit.com/r/OikosCash/'
+    - icon: 'brands/medium'
+      link: 'https://medium.com/@oikoscash'
+
+# This set of documentation uses the MkDocs Material theme by squidfunk: https://github.com/squidfunk/mkdocs-material
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'black'
+    accent: 'indigo'
+  logo: 'img/logos/oikos_logo.svg'
+  favicon: 'img/favicon.ico'
+  feature:
+    tabs: true
+    instant: false
+
+# Extension settings.
+# In addition to the standard extensions, this also requires the PyMdown Extensions by facelessuser: https://github.com/facelessuser/pymdown-extensions
+markdown_extensions:
+  - toc:
+      permalink: True # Generates permanent links for each page section.
+  - admonition # Small descriptive elements for notes, warnings, etc.
+  - pymdownx.arithmatex # Math rendering.
+  - pymdownx.tasklist: # Allows nested and better checkboxes.
+      custom_checkbox: True # Without this setting, checkboxes look rubbish in the material theme.
+  - pymdownx.highlight # Code syntax highlighting.
+  - pymdownx.extra: # Better fenced code blocks, emphasis, footnotes, lists, tables, abbreviations, and raw HTML.
+      pymdownx.betterem:
+        smart_enable: 'all' # Smarter line breaks when emphasising lines.
+  - pymdownx.details # Collapsible admonition-style blocks containing further information.
+  - pymdownx.escapeall # Backslashes escape everything.
+  - pymdownx.caret # Superscripts and insert text.
+  - pymdownx.tilde # Strikethrough and underlines.
+  - pymdownx.magiclink: # Better links and github references.
+      provider: 'github'
+      repo_url_shortener: true
+      repo_url_shorthand: true
+      social_url_shorthand: true
+      user: 'oikos-cash'
+      repo: 'oikos'
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+  - 'js/sectionSeparators.js'
+
+extra_css: [extra.css]

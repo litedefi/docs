@@ -1,0 +1,37 @@
+{
+	"name": "oikos-docs",
+	"version": "2.21.8-release-candidate",
+	"description": "Oikos docs builder",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "node scripts/build",
+		"lint": "eslint .",
+		"format": "prettier --write '**/*.js'"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/Synthetixio/oikos-docs.git"
+	},
+	"author": "Oikos",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Synthetixio/oikos-docs/issues"
+	},
+	"homepage": "https://github.com/Synthetixio/oikos-docs#readme",
+	"dependencies": {
+		"@oikos/oikos": "0.0.2",
+		"@oikos/oikos-js": "0.0.1",
+		"axios": "~0.19.2",
+		"moment": "~2.24.0",
+		"numbro": "2.1.2",
+		"oikos": "2.21.8-release-candidate"
+	},
+	"devDependencies": {
+		"eslint": "~6.8.0",
+		"eslint-config-prettier": "~6.10.0",
+		"eslint-plugin-import": "~2.20.1",
+		"eslint-plugin-prettier": "~3.1.2",
+		"prettier": "~1.19.1"
+	}
+}
