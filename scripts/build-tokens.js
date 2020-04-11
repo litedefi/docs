@@ -130,12 +130,12 @@ const addOracleParameters = ({ asset, aggregator }) => {
 	const snxOracle = '41aad3910a630b033cef3b1f8ea1eb93a71e5f7376';
 	if (!aggregator)
 		return (
-			`**Price Feed**: Oikos (centralized)\n\n- Oracle: [${snxOracle}](https://shasta.tronscan.io/address${snxOracle})` +
+			`**Price Feed**: Oikos (centralized)\n\n- Oracle: [${snxOracle}](https://shasta.tronscan.io/#/address${snxOracle})` +
 			'\n- Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)\n\n'
 		);
 	return (
 		`**Price Feed**: Chainlink (decentralized)\n\n- Oracles: [Network overview](https://landing-feeds.surge.sh/${asset.toLowerCase()}-usd)` +
-		`\n- Contract: [Aggregator](https://shasta.tronscan.io/address${aggregator})\n\n`
+		`\n- Contract: [Aggregator](https://shasta.tronscan.io/#/address${aggregator})\n\n`
 	);
 };
 

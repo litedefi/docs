@@ -49,7 +49,7 @@ const generateAddresses = () => {
                 <td>${targetContract}</td>
                 <td><a target="_blank" href="https://github.com/oikos-cash/oikos/blob/master/contracts/${source}.sol">${source}.sol</a></td>
                 <td><a target="_blank" href="https://raw.githubusercontent.com/oikos-cash/oikos-js/master/lib/abis/${network.toLowerCase()}/${source}.json">${source}.json</a></td>
-                <td><a target="_blank" href="https://${networkPrefix}tronscan.io/address/${addressReadable}">${addressReadable}</a>
+                <td><a target="_blank" href="https://${networkPrefix}tronscan.io/#/address/${addressReadable}">${addressReadable}</a>
                 </td>
               </tr>`;
 					})
