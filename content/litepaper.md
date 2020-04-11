@@ -10,7 +10,7 @@ Oikos is a decentralised synthetic asset issuance protocol built on Ethereum. Th
 
 **How OKS backs Synths**
 
-All Synths are backed by OKS tokens. Synths are minted when OKS holders stake their OKS as collateral using Mintr, a decentralised application for interacting with the Oikos contracts. Synths are currently backed by a 800% collateralisation ratio, although this may be raised or lowered in the future through community governance mechanisms. OKS stakers incur debt when they mint Synths, and to exit the system (i.e. unlock their OKS) they must pay back this debt by burning Synths.
+All Synths are backed by OKS tokens. Synths are minted when OKS holders stake their OKS as collateral using Minter, a decentralised application for interacting with the Oikos contracts. Synths are currently backed by a 800% collateralisation ratio, although this may be raised or lowered in the future through community governance mechanisms. OKS stakers incur debt when they mint Synths, and to exit the system (i.e. unlock their OKS) they must pay back this debt by burning Synths.
 
 Oikos is also currently trialling Ether as an alternative form of collateral. This means traders can borrow Synths against their TRX and begin trading immediately, rather than needing to sell their TRX. Staking TRX requires a collateralisation ratio of 150% and creates a debt denominated in TRX, so TRX stakers mint sTRX rather than sUSD and do not participate in the ‘pooled debt’ aspect of the system. In this model, TRX stakers do not receive fees or rewards as they take no risk for the debt pool.
 

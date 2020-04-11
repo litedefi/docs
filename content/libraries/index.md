@@ -48,7 +48,7 @@ To interact with Oikos in your dApps and scripts, you have a few options:
         })();
         ```
 
-3.  Write code to connect to the contracts generically using the addresses and ABIs from the [addresses](../addresses.md) section, downloading the ABIs either directly or via Etherscan's ABI.
+3.  Write code to connect to the contracts generically using the addresses and ABIs from the [addresses](../addresses.md) section, downloading the ABIs either directly or via Tronscan's ABI.
 
 ### Lookup on-chain historical data
 

@@ -12,7 +12,7 @@
 
 Oikos is a crypto-backed synthetic asset platform.
 
-It is a multitoken system, powered by OKS, the Oikos Network Token. OKS holders can stake OKS to issue Synths, on-chain synthetic assets via the [Mintr Dapp](https://mintr.oikos.cash) The network currently supports an ever growing [list of synthetic assets](https://www.oikos.cash/tokens/). Please see the [list of the deployed contracts on MAIN and TESTNETS](https://developer.oikos.cash/api/docs/deployed-contracts.html)
+It is a multitoken system, powered by OKS, the Oikos Network Token. OKS holders can stake OKS to issue Synths, on-chain synthetic assets via the [Minter Dapp](https://mintr.oikos.cash) The network currently supports an ever growing [list of synthetic assets](https://www.oikos.cash/tokens/). Please see the [list of the deployed contracts on MAIN and TESTNETS](https://developer.oikos.cash/api/docs/deployed-contracts.html)
 Synths can be traded using (https://oikos.exchange)
 
 Oikos uses a proxy system so that upgrades will not be disruptive to the functionality of the contract. This smooths user interaction, since new functionality will become available without any interruption in their experience. It is also transparent to the community at large, since each upgrade is accompanied by events announcing those upgrades. New releases are managed via the [Oikos Improvement Proposal (SIP)](https://sips.oikos.cash/all-sip) system similar to the [EF's EIPs](https://eips.ethereum.org/all)
