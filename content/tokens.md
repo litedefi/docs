@@ -3,65 +3,65 @@
 
 ## Australian Dollars (sAUD)
 
-**Address:** [41ebb444fc83bbdc137bf23cd2d699583f26e5e24c](https://shasta.tronscan.io/address41ebb444fc83bbdc137bf23cd2d699583f26e5e24c)
+**Address:** [TXTVkUuvw496ucApD43KywrBG3hPRPSXxX](https://shasta.tronscan.io/addressTXTVkUuvw496ucApD43KywrBG3hPRPSXxX)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Australian Dollars (AUD) through price feeds supplied by an oracle.
 
 ## Binance Coin (sBNB)
 
-**Address:** [41b34c0d9dd110abf994e8d26534845ab8fb5dbd03](https://shasta.tronscan.io/address41b34c0d9dd110abf994e8d26534845ab8fb5dbd03)
+**Address:** [TSKF4fWuc7tRKjbg8ADg2cZW71u3UJTeQZ](https://shasta.tronscan.io/addressTSKF4fWuc7tRKjbg8ADg2cZW71u3UJTeQZ)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Binance Coin (BNB) through price feeds supplied by an oracle.
 
 ## BitTorrent Token (sBTT)
 
-**Address:** [41869e068206f3a9197c5ba6e1501a51d2169301c0](https://shasta.tronscan.io/address41869e068206f3a9197c5ba6e1501a51d2169301c0)
+**Address:** [TNEzrZcNHy7jkEhFaNgeff6GHbZe329uVC](https://shasta.tronscan.io/addressTNEzrZcNHy7jkEhFaNgeff6GHbZe329uVC)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of BitTorrent Token (BTT) through price feeds supplied by an oracle.
 
 ## Bitcoin (sBTC)
 
-**Address:** [4191bb613fbc39010b69654e368f59af1b1225cc3b](https://shasta.tronscan.io/address4191bb613fbc39010b69654e368f59af1b1225cc3b)
+**Address:** [TPFmTFqZjchDq5vrxQ9CJb2A4jsZL9M6Vo](https://shasta.tronscan.io/addressTPFmTFqZjchDq5vrxQ9CJb2A4jsZL9M6Vo)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Bitcoin (BTC) through price feeds supplied by an oracle.
 
 ## Centralised Exchange Index (sCEX)
 
-**Address:** [417a73eba77d5c53f3a6d325fcdd462e39f6374eb5](https://shasta.tronscan.io/address417a73eba77d5c53f3a6d325fcdd462e39f6374eb5)
+**Address:** [TM8gJm87D65VurXJQGhvEmPesWKZFrb2bv](https://shasta.tronscan.io/addressTM8gJm87D65VurXJQGhvEmPesWKZFrb2bv)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Index of**: [sCEX](#exchange-index-scex)
@@ -78,26 +78,26 @@
 
 ## Chainlink (sLINK)
 
-**Address:** [4113ccbdc837f1f041a81f284bcc73e3ee78bb1945](https://shasta.tronscan.io/address4113ccbdc837f1f041a81f284bcc73e3ee78bb1945)
+**Address:** [TBmu7P4g8BAfME8WAjatHipibfpvoTNwSa](https://shasta.tronscan.io/addressTBmu7P4g8BAfME8WAjatHipibfpvoTNwSa)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Chainlink (LINK) through price feeds supplied by an oracle.
 
 ## DeFi Index (sDEFI)
 
-**Address:** [4188482b9c35ea358c356595299cad4ea9433a48e0](https://shasta.tronscan.io/address4188482b9c35ea358c356595299cad4ea9433a48e0)
+**Address:** [TNPoMdc46tAsu88FSLv5vWVQvWxJZ6nPM4](https://shasta.tronscan.io/addressTNPoMdc46tAsu88FSLv5vWVQvWxJZ6nPM4)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Index of**: [sDEFI](#index-sdefi)
@@ -118,52 +118,52 @@
 
 ## Ether (sETH)
 
-**Address:** [41cdb6ce98bf43737fdb55a696efbc25581bb2bdce](https://shasta.tronscan.io/address41cdb6ce98bf43737fdb55a696efbc25581bb2bdce)
+**Address:** [TUivX3BtmvFkvh1hhebr3DCmUbtPFJZssw](https://shasta.tronscan.io/addressTUivX3BtmvFkvh1hhebr3DCmUbtPFJZssw)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Ether (ETH) through price feeds supplied by an oracle.
 
 ## Euros (sEUR)
 
-**Address:** [418bf6e0f33dc5a0d09e88a6b2fa107d47af226851](https://shasta.tronscan.io/address418bf6e0f33dc5a0d09e88a6b2fa107d47af226851)
+**Address:** [TNjGgA4VaXJDTeie3dZmqqHqWRC5vKyj5r](https://shasta.tronscan.io/addressTNjGgA4VaXJDTeie3dZmqqHqWRC5vKyj5r)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Euros (EUR) through price feeds supplied by an oracle.
 
 ## Gold Ounce (sXAU)
 
-**Address:** [412eeb27e6ac2e9fc2102f8f7f26655c480147a681](https://shasta.tronscan.io/address412eeb27e6ac2e9fc2102f8f7f26655c480147a681)
+**Address:** [TEFHnoJDTyxPeza9rdjxWUp9AmeboQLXhr](https://shasta.tronscan.io/addressTEFHnoJDTyxPeza9rdjxWUp9AmeboQLXhr)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Gold Ounce (XAU) through price feeds supplied by an oracle.
 
 ## Inverted Binance Coin (iBNB)
 
-**Address:** [4104f261435e1657c3ffd546970109d6cfbe297963](https://shasta.tronscan.io/address4104f261435e1657c3ffd546970109d6cfbe297963)
+**Address:** [TARN4gMicuMxBU13TV3iC7nBBjj23LRiDu](https://shasta.tronscan.io/addressTARN4gMicuMxBU13TV3iC7nBBjj23LRiDu)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sBNB](#binance-coin-sbnb)
@@ -176,13 +176,13 @@
 
 ## Inverted BitTorrent Token (iBTT)
 
-**Address:** [4193acf9adc872f9b17baff79e0f5fefa2a0653093](https://shasta.tronscan.io/address4193acf9adc872f9b17baff79e0f5fefa2a0653093)
+**Address:** [TPS3YnxUDPWLk7pwvJpPrbsvj2SFTk2TKX](https://shasta.tronscan.io/addressTPS3YnxUDPWLk7pwvJpPrbsvj2SFTk2TKX)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sBTT](#bittorrent-token-sbtt)
@@ -195,13 +195,13 @@
 
 ## Inverted Bitcoin (iBTC)
 
-**Address:** [416f04a9377cb5314440389959d823dde7aa81393c](https://shasta.tronscan.io/address416f04a9377cb5314440389959d823dde7aa81393c)
+**Address:** [TL6DbCoe6Gp91b2C6efho7buMoHqtmAy17](https://shasta.tronscan.io/addressTL6DbCoe6Gp91b2C6efho7buMoHqtmAy17)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sBTC](#bitcoin-sbtc)
@@ -214,13 +214,13 @@
 
 ## Inverted Centralised Exchange Index (iCEX)
 
-**Address:** [41e039138fdb99d16c15d1671805945b6543e4f9a2](https://shasta.tronscan.io/address41e039138fdb99d16c15d1671805945b6543e4f9a2)
+**Address:** [TWQnjmV36HpUBBDiW3jjx7cVtbT59KN9U6](https://shasta.tronscan.io/addressTWQnjmV36HpUBBDiW3jjx7cVtbT59KN9U6)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sCEX](#centralised-exchange-index-scex)
@@ -235,13 +235,13 @@
 
 ## Inverted Chainlink (iLINK)
 
-**Address:** [4185f45891894d62d9f4880559866709d35fc56847](https://shasta.tronscan.io/address4185f45891894d62d9f4880559866709d35fc56847)
+**Address:** [TNBVb2as9bDyiNZN4Ays47oh5wF1TqxUJ4](https://shasta.tronscan.io/addressTNBVb2as9bDyiNZN4Ays47oh5wF1TqxUJ4)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sLINK](#chainlink-slink)
@@ -254,13 +254,13 @@
 
 ## Inverted DeFi Index (iDEFI)
 
-**Address:** [413e8d8b74b6e35dc7bac51c71b24e370707056125](https://shasta.tronscan.io/address413e8d8b74b6e35dc7bac51c71b24e370707056125)
+**Address:** [TFfxTetfg1Ew9bPTmHFP6jQ5RYucAWV4kE](https://shasta.tronscan.io/addressTFfxTetfg1Ew9bPTmHFP6jQ5RYucAWV4kE)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sDEFI](#defi-index-sdefi)
@@ -275,13 +275,13 @@
 
 ## Inverted Ether (iETH)
 
-**Address:** [41fb714652d6193f2243002a5952ee66d7509b23ce](https://shasta.tronscan.io/address41fb714652d6193f2243002a5952ee66d7509b23ce)
+**Address:** [TYtiJfy85Ybqr6ommEca2EjVPg2mQbaCqa](https://shasta.tronscan.io/addressTYtiJfy85Ybqr6ommEca2EjVPg2mQbaCqa)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sETH](#ether-seth)
@@ -294,13 +294,13 @@
 
 ## Inverted Litecoin (iLTC)
 
-**Address:** [41cb3164f2072b06fc3b61568a1df32f53df8b4db2](https://shasta.tronscan.io/address41cb3164f2072b06fc3b61568a1df32f53df8b4db2)
+**Address:** [TUVbLyg7K89PCUQ11EYwoy4ZmfVoHAb2gY](https://shasta.tronscan.io/addressTUVbLyg7K89PCUQ11EYwoy4ZmfVoHAb2gY)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sLTC](#litecoin-sltc)
@@ -313,13 +313,13 @@
 
 ## Inverted Maker (iMKR)
 
-**Address:** [41e739c88954af704a6e23e019daf8e8330d1db6e8](https://shasta.tronscan.io/address41e739c88954af704a6e23e019daf8e8330d1db6e8)
+**Address:** [TX3pKEEoRZSjqKoV1q1pdSVe357aGcbmxk](https://shasta.tronscan.io/addressTX3pKEEoRZSjqKoV1q1pdSVe357aGcbmxk)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sMKR](#maker-smkr)
@@ -332,13 +332,13 @@
 
 ## Inverted Ripple (iXRP)
 
-**Address:** [418334e836bcf277a3eb6dcfb4e38bd2c9d0b70d87](https://shasta.tronscan.io/address418334e836bcf277a3eb6dcfb4e38bd2c9d0b70d87)
+**Address:** [TMvxuEjF7oRJ7B4nZgXeie5DTdc4sxwfgj](https://shasta.tronscan.io/addressTMvxuEjF7oRJ7B4nZgXeie5DTdc4sxwfgj)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sXRP](#ripple-sxrp)
@@ -351,13 +351,13 @@
 
 ## Inverted Tezos (iXTZ)
 
-**Address:** [41b8f10c41942126c773ce2b85a981dc873acefc40](https://shasta.tronscan.io/address41b8f10c41942126c773ce2b85a981dc873acefc40)
+**Address:** [TSq66ezQtPQm21A2cUBbKS6GsgNXKSJqAQ](https://shasta.tronscan.io/addressTSq66ezQtPQm21A2cUBbKS6GsgNXKSJqAQ)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sXTZ](#tezos-sxtz)
@@ -370,13 +370,13 @@
 
 ## Inverted Tron (iTRX)
 
-**Address:** [41fdba43983964e67623a2a491710c3deaf8580e55](https://shasta.tronscan.io/address41fdba43983964e67623a2a491710c3deaf8580e55)
+**Address:** [TZ6o6SjqbwwyaXAhwHVSttVabNkA3JHaeA](https://shasta.tronscan.io/addressTZ6o6SjqbwwyaXAhwHVSttVabNkA3JHaeA)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 **Inverse of**: [sTRX](#tron-strx)
@@ -389,144 +389,144 @@
 
 ## Japanese Yen (sJPY)
 
-**Address:** [4153cff94c2637ae3a917f8d06ae5c82f13f33f21b](https://shasta.tronscan.io/address4153cff94c2637ae3a917f8d06ae5c82f13f33f21b)
+**Address:** [THcNEFkZ5nzsaTMVXTS36kk3ho9Tx3CHZ1](https://shasta.tronscan.io/addressTHcNEFkZ5nzsaTMVXTS36kk3ho9Tx3CHZ1)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Japanese Yen (JPY) through price feeds supplied by an oracle.
 
 ## Litecoin (sLTC)
 
-**Address:** [414d48b922113fa0fd8f4cee7132632e665c5d927a](https://shasta.tronscan.io/address414d48b922113fa0fd8f4cee7132632e665c5d927a)
+**Address:** [TH1r9izUbDzHEp236WBXst2oRbrE6rQn6J](https://shasta.tronscan.io/addressTH1r9izUbDzHEp236WBXst2oRbrE6rQn6J)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Litecoin (LTC) through price feeds supplied by an oracle.
 
 ## Maker (sMKR)
 
-**Address:** [4145c048666969a076283e020130cf0812cbf14cb9](https://shasta.tronscan.io/address4145c048666969a076283e020130cf0812cbf14cb9)
+**Address:** [TGL1yLdo6Cyh7vKgGMrUHo5MXvCVRyjVCX](https://shasta.tronscan.io/addressTGL1yLdo6Cyh7vKgGMrUHo5MXvCVRyjVCX)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Maker (MKR) through price feeds supplied by an oracle.
 
 ## Oikos (OKS)
 
-**Address:** [411d300ced0731d46822b55ca0b40061f0ab9683c7](https://shasta.tronscan.io/address411d300ced0731d46822b55ca0b40061f0ab9683c7)
+**Address:** [TCdYAEDsAdzUSfPScwtQojv621WbhqMwKz](https://shasta.tronscan.io/addressTCdYAEDsAdzUSfPScwtQojv621WbhqMwKz)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >The Oikos Network Token (OKS) gets staked as collateral to back Synths and entitles stakers to receive fees generated by Synth trades on Oikos.Exchange.
 
 ## Pound Sterling (sGBP)
 
-**Address:** [4107a530f23d1810774491bd236d8975128e86b155](https://shasta.tronscan.io/address4107a530f23d1810774491bd236d8975128e86b155)
+**Address:** [TAfdd625zag7TjwjPsb263f8hyosKKprJk](https://shasta.tronscan.io/addressTAfdd625zag7TjwjPsb263f8hyosKKprJk)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Pound Sterling (GBP) through price feeds supplied by an oracle.
 
 ## Ripple (sXRP)
 
-**Address:** [413408c98df23262d2f40ee5a7ef593c8e5decd5da](https://shasta.tronscan.io/address413408c98df23262d2f40ee5a7ef593c8e5decd5da)
+**Address:** [TEiLfb4PJtJhPbCRx8hH7w47AhYDXigi2M](https://shasta.tronscan.io/addressTEiLfb4PJtJhPbCRx8hH7w47AhYDXigi2M)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Ripple (XRP) through price feeds supplied by an oracle.
 
 ## Silver Ounce (sXAG)
 
-**Address:** [41c8d485446e38ca26cbb9da7720cfcdaa40a49449](https://shasta.tronscan.io/address41c8d485446e38ca26cbb9da7720cfcdaa40a49449)
+**Address:** [TUH6jcYB7gFze6VK5icnkKg8Pf4wsJdCYf](https://shasta.tronscan.io/addressTUH6jcYB7gFze6VK5icnkKg8Pf4wsJdCYf)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Silver Ounce (XAG) through price feeds supplied by an oracle.
 
 ## Swiss Franc (sCHF)
 
-**Address:** [41751cfd43741cbcbde2e3281dbf6dc4970d733d58](https://shasta.tronscan.io/address41751cfd43741cbcbde2e3281dbf6dc4970d733d58)
+**Address:** [TLeSniU5rJM5TCjWa52TKCnwMeJy3HQ6yx](https://shasta.tronscan.io/addressTLeSniU5rJM5TCjWa52TKCnwMeJy3HQ6yx)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Swiss Franc (CHF) through price feeds supplied by an oracle.
 
 ## TRON (sTRX)
 
-**Address:** [41056c4b3c825e6220784a640945e11a563f129722](https://shasta.tronscan.io/address41056c4b3c825e6220784a640945e11a563f129722)
+**Address:** [TATt7QiRcrrhaoDhm2Xky3Yn7fjPWfRMdV](https://shasta.tronscan.io/addressTATt7QiRcrrhaoDhm2Xky3Yn7fjPWfRMdV)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of TRON (TRX) through price feeds supplied by an oracle.
 
 ## Tezos (sXTZ)
 
-**Address:** [41cf80943e0f615c75a0a1317bcde29a6ab7b845c3](https://shasta.tronscan.io/address41cf80943e0f615c75a0a1317bcde29a6ab7b845c3)
+**Address:** [TUtNubfPr8Bj3AoR1YdztJtXF8xXexvxGZ](https://shasta.tronscan.io/addressTUtNubfPr8Bj3AoR1YdztJtXF8xXexvxGZ)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
 >Tracks the price of Tezos (XTZ) through price feeds supplied by an oracle.
 
 ## US Dollars (sUSD)
 
-**Address:** [410e137dcc4bdb5bdbeb4dc7ea7f572f2dc683152d](https://shasta.tronscan.io/address410e137dcc4bdb5bdbeb4dc7ea7f572f2dc683152d)
+**Address:** [TBFdp2jfMccwneRnbcobCa6txrxo1a1tvi](https://shasta.tronscan.io/addressTBFdp2jfMccwneRnbcobCa6txrxo1a1tvi)
 
 **Decimals:** 18
 
 **Price Feed**: Oikos (centralized)
 
-- Oracle: [41aad3910a630b033cef3b1f8ea1eb93a71e5f7376](https://shasta.tronscan.io/#/address41aad3910a630b033cef3b1f8ea1eb93a71e5f7376)
+- Oracle: [TRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa](https://shasta.tronscan.io/#/addressTRYTKaB8x1ru3YcZzyvyKLoK32DrgvnnGa)
 - Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)
 
->Tracks the price of a single US Dollar (USD). This Synth always remains constant at 1.
+>Tracks the price of a single US Dollar (USD). This Synth always remains constant at 1.}
 
