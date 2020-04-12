@@ -3,7 +3,7 @@
 
 ## Australian Dollars (sAUD)
 
-**Address:** [TXTVkUuvw496ucApD43KywrBG3hPRPSXxX](https://shasta.tronscan.io/addressTXTVkUuvw496ucApD43KywrBG3hPRPSXxX)
+**Address:** [TXTVkUuvw496ucApD43KywrBG3hPRPSXxX](https://shasta.tronscan.io/#/address/TXTVkUuvw496ucApD43KywrBG3hPRPSXxX)
 
 **Decimals:** 18
 
@@ -16,7 +16,7 @@
 
 ## Binance Coin (sBNB)
 
-**Address:** [TSKF4fWuc7tRKjbg8ADg2cZW71u3UJTeQZ](https://shasta.tronscan.io/addressTSKF4fWuc7tRKjbg8ADg2cZW71u3UJTeQZ)
+**Address:** [TSKF4fWuc7tRKjbg8ADg2cZW71u3UJTeQZ](https://shasta.tronscan.io/#/address/TSKF4fWuc7tRKjbg8ADg2cZW71u3UJTeQZ)
 
 **Decimals:** 18
 
@@ -29,7 +29,7 @@
 
 ## BitTorrent Token (sBTT)
 
-**Address:** [TNEzrZcNHy7jkEhFaNgeff6GHbZe329uVC](https://shasta.tronscan.io/addressTNEzrZcNHy7jkEhFaNgeff6GHbZe329uVC)
+**Address:** [TNEzrZcNHy7jkEhFaNgeff6GHbZe329uVC](https://shasta.tronscan.io/#/address/TNEzrZcNHy7jkEhFaNgeff6GHbZe329uVC)
 
 **Decimals:** 18
 
@@ -42,7 +42,7 @@
 
 ## Bitcoin (sBTC)
 
-**Address:** [TPFmTFqZjchDq5vrxQ9CJb2A4jsZL9M6Vo](https://shasta.tronscan.io/addressTPFmTFqZjchDq5vrxQ9CJb2A4jsZL9M6Vo)
+**Address:** [TPFmTFqZjchDq5vrxQ9CJb2A4jsZL9M6Vo](https://shasta.tronscan.io/#/address/TPFmTFqZjchDq5vrxQ9CJb2A4jsZL9M6Vo)
 
 **Decimals:** 18
 
@@ -55,7 +55,7 @@
 
 ## Centralised Exchange Index (sCEX)
 
-**Address:** [TM8gJm87D65VurXJQGhvEmPesWKZFrb2bv](https://shasta.tronscan.io/addressTM8gJm87D65VurXJQGhvEmPesWKZFrb2bv)
+**Address:** [TM8gJm87D65VurXJQGhvEmPesWKZFrb2bv](https://shasta.tronscan.io/#/address/TM8gJm87D65VurXJQGhvEmPesWKZFrb2bv)
 
 **Decimals:** 18
 
@@ -78,7 +78,7 @@
 
 ## Chainlink (sLINK)
 
-**Address:** [TBmu7P4g8BAfME8WAjatHipibfpvoTNwSa](https://shasta.tronscan.io/addressTBmu7P4g8BAfME8WAjatHipibfpvoTNwSa)
+**Address:** [TBmu7P4g8BAfME8WAjatHipibfpvoTNwSa](https://shasta.tronscan.io/#/address/TBmu7P4g8BAfME8WAjatHipibfpvoTNwSa)
 
 **Decimals:** 18
 
@@ -91,7 +91,7 @@
 
 ## DeFi Index (sDEFI)
 
-**Address:** [TNPoMdc46tAsu88FSLv5vWVQvWxJZ6nPM4](https://shasta.tronscan.io/addressTNPoMdc46tAsu88FSLv5vWVQvWxJZ6nPM4)
+**Address:** [TNPoMdc46tAsu88FSLv5vWVQvWxJZ6nPM4](https://shasta.tronscan.io/#/address/TNPoMdc46tAsu88FSLv5vWVQvWxJZ6nPM4)
 
 **Decimals:** 18
 
@@ -118,7 +118,7 @@
 
 ## Ether (sETH)
 
-**Address:** [TUivX3BtmvFkvh1hhebr3DCmUbtPFJZssw](https://shasta.tronscan.io/addressTUivX3BtmvFkvh1hhebr3DCmUbtPFJZssw)
+**Address:** [TUivX3BtmvFkvh1hhebr3DCmUbtPFJZssw](https://shasta.tronscan.io/#/address/TUivX3BtmvFkvh1hhebr3DCmUbtPFJZssw)
 
 **Decimals:** 18
 
@@ -131,7 +131,7 @@
 
 ## Euros (sEUR)
 
-**Address:** [TNjGgA4VaXJDTeie3dZmqqHqWRC5vKyj5r](https://shasta.tronscan.io/addressTNjGgA4VaXJDTeie3dZmqqHqWRC5vKyj5r)
+**Address:** [TNjGgA4VaXJDTeie3dZmqqHqWRC5vKyj5r](https://shasta.tronscan.io/#/address/TNjGgA4VaXJDTeie3dZmqqHqWRC5vKyj5r)
 
 **Decimals:** 18
 
@@ -144,7 +144,7 @@
 
 ## Gold Ounce (sXAU)
 
-**Address:** [TEFHnoJDTyxPeza9rdjxWUp9AmeboQLXhr](https://shasta.tronscan.io/addressTEFHnoJDTyxPeza9rdjxWUp9AmeboQLXhr)
+**Address:** [TEFHnoJDTyxPeza9rdjxWUp9AmeboQLXhr](https://shasta.tronscan.io/#/address/TEFHnoJDTyxPeza9rdjxWUp9AmeboQLXhr)
 
 **Decimals:** 18
 
@@ -157,7 +157,7 @@
 
 ## Inverted Binance Coin (iBNB)
 
-**Address:** [TARN4gMicuMxBU13TV3iC7nBBjj23LRiDu](https://shasta.tronscan.io/addressTARN4gMicuMxBU13TV3iC7nBBjj23LRiDu)
+**Address:** [TARN4gMicuMxBU13TV3iC7nBBjj23LRiDu](https://shasta.tronscan.io/#/address/TARN4gMicuMxBU13TV3iC7nBBjj23LRiDu)
 
 **Decimals:** 18
 
@@ -176,7 +176,7 @@
 
 ## Inverted BitTorrent Token (iBTT)
 
-**Address:** [TPS3YnxUDPWLk7pwvJpPrbsvj2SFTk2TKX](https://shasta.tronscan.io/addressTPS3YnxUDPWLk7pwvJpPrbsvj2SFTk2TKX)
+**Address:** [TPS3YnxUDPWLk7pwvJpPrbsvj2SFTk2TKX](https://shasta.tronscan.io/#/address/TPS3YnxUDPWLk7pwvJpPrbsvj2SFTk2TKX)
 
 **Decimals:** 18
 
@@ -195,7 +195,7 @@
 
 ## Inverted Bitcoin (iBTC)
 
-**Address:** [TL6DbCoe6Gp91b2C6efho7buMoHqtmAy17](https://shasta.tronscan.io/addressTL6DbCoe6Gp91b2C6efho7buMoHqtmAy17)
+**Address:** [TL6DbCoe6Gp91b2C6efho7buMoHqtmAy17](https://shasta.tronscan.io/#/address/TL6DbCoe6Gp91b2C6efho7buMoHqtmAy17)
 
 **Decimals:** 18
 
@@ -214,7 +214,7 @@
 
 ## Inverted Centralised Exchange Index (iCEX)
 
-**Address:** [TWQnjmV36HpUBBDiW3jjx7cVtbT59KN9U6](https://shasta.tronscan.io/addressTWQnjmV36HpUBBDiW3jjx7cVtbT59KN9U6)
+**Address:** [TWQnjmV36HpUBBDiW3jjx7cVtbT59KN9U6](https://shasta.tronscan.io/#/address/TWQnjmV36HpUBBDiW3jjx7cVtbT59KN9U6)
 
 **Decimals:** 18
 
@@ -235,7 +235,7 @@
 
 ## Inverted Chainlink (iLINK)
 
-**Address:** [TNBVb2as9bDyiNZN4Ays47oh5wF1TqxUJ4](https://shasta.tronscan.io/addressTNBVb2as9bDyiNZN4Ays47oh5wF1TqxUJ4)
+**Address:** [TNBVb2as9bDyiNZN4Ays47oh5wF1TqxUJ4](https://shasta.tronscan.io/#/address/TNBVb2as9bDyiNZN4Ays47oh5wF1TqxUJ4)
 
 **Decimals:** 18
 
@@ -254,7 +254,7 @@
 
 ## Inverted DeFi Index (iDEFI)
 
-**Address:** [TFfxTetfg1Ew9bPTmHFP6jQ5RYucAWV4kE](https://shasta.tronscan.io/addressTFfxTetfg1Ew9bPTmHFP6jQ5RYucAWV4kE)
+**Address:** [TFfxTetfg1Ew9bPTmHFP6jQ5RYucAWV4kE](https://shasta.tronscan.io/#/address/TFfxTetfg1Ew9bPTmHFP6jQ5RYucAWV4kE)
 
 **Decimals:** 18
 
@@ -275,7 +275,7 @@
 
 ## Inverted Ether (iETH)
 
-**Address:** [TYtiJfy85Ybqr6ommEca2EjVPg2mQbaCqa](https://shasta.tronscan.io/addressTYtiJfy85Ybqr6ommEca2EjVPg2mQbaCqa)
+**Address:** [TYtiJfy85Ybqr6ommEca2EjVPg2mQbaCqa](https://shasta.tronscan.io/#/address/TYtiJfy85Ybqr6ommEca2EjVPg2mQbaCqa)
 
 **Decimals:** 18
 
@@ -294,7 +294,7 @@
 
 ## Inverted Litecoin (iLTC)
 
-**Address:** [TUVbLyg7K89PCUQ11EYwoy4ZmfVoHAb2gY](https://shasta.tronscan.io/addressTUVbLyg7K89PCUQ11EYwoy4ZmfVoHAb2gY)
+**Address:** [TUVbLyg7K89PCUQ11EYwoy4ZmfVoHAb2gY](https://shasta.tronscan.io/#/address/TUVbLyg7K89PCUQ11EYwoy4ZmfVoHAb2gY)
 
 **Decimals:** 18
 
@@ -313,7 +313,7 @@
 
 ## Inverted Maker (iMKR)
 
-**Address:** [TX3pKEEoRZSjqKoV1q1pdSVe357aGcbmxk](https://shasta.tronscan.io/addressTX3pKEEoRZSjqKoV1q1pdSVe357aGcbmxk)
+**Address:** [TX3pKEEoRZSjqKoV1q1pdSVe357aGcbmxk](https://shasta.tronscan.io/#/address/TX3pKEEoRZSjqKoV1q1pdSVe357aGcbmxk)
 
 **Decimals:** 18
 
@@ -332,7 +332,7 @@
 
 ## Inverted Ripple (iXRP)
 
-**Address:** [TMvxuEjF7oRJ7B4nZgXeie5DTdc4sxwfgj](https://shasta.tronscan.io/addressTMvxuEjF7oRJ7B4nZgXeie5DTdc4sxwfgj)
+**Address:** [TMvxuEjF7oRJ7B4nZgXeie5DTdc4sxwfgj](https://shasta.tronscan.io/#/address/TMvxuEjF7oRJ7B4nZgXeie5DTdc4sxwfgj)
 
 **Decimals:** 18
 
@@ -351,7 +351,7 @@
 
 ## Inverted Tezos (iXTZ)
 
-**Address:** [TSq66ezQtPQm21A2cUBbKS6GsgNXKSJqAQ](https://shasta.tronscan.io/addressTSq66ezQtPQm21A2cUBbKS6GsgNXKSJqAQ)
+**Address:** [TSq66ezQtPQm21A2cUBbKS6GsgNXKSJqAQ](https://shasta.tronscan.io/#/address/TSq66ezQtPQm21A2cUBbKS6GsgNXKSJqAQ)
 
 **Decimals:** 18
 
@@ -370,7 +370,7 @@
 
 ## Inverted Tron (iTRX)
 
-**Address:** [TZ6o6SjqbwwyaXAhwHVSttVabNkA3JHaeA](https://shasta.tronscan.io/addressTZ6o6SjqbwwyaXAhwHVSttVabNkA3JHaeA)
+**Address:** [TZ6o6SjqbwwyaXAhwHVSttVabNkA3JHaeA](https://shasta.tronscan.io/#/address/TZ6o6SjqbwwyaXAhwHVSttVabNkA3JHaeA)
 
 **Decimals:** 18
 
@@ -389,7 +389,7 @@
 
 ## Japanese Yen (sJPY)
 
-**Address:** [THcNEFkZ5nzsaTMVXTS36kk3ho9Tx3CHZ1](https://shasta.tronscan.io/addressTHcNEFkZ5nzsaTMVXTS36kk3ho9Tx3CHZ1)
+**Address:** [THcNEFkZ5nzsaTMVXTS36kk3ho9Tx3CHZ1](https://shasta.tronscan.io/#/address/THcNEFkZ5nzsaTMVXTS36kk3ho9Tx3CHZ1)
 
 **Decimals:** 18
 
@@ -402,7 +402,7 @@
 
 ## Litecoin (sLTC)
 
-**Address:** [TH1r9izUbDzHEp236WBXst2oRbrE6rQn6J](https://shasta.tronscan.io/addressTH1r9izUbDzHEp236WBXst2oRbrE6rQn6J)
+**Address:** [TH1r9izUbDzHEp236WBXst2oRbrE6rQn6J](https://shasta.tronscan.io/#/address/TH1r9izUbDzHEp236WBXst2oRbrE6rQn6J)
 
 **Decimals:** 18
 
@@ -415,7 +415,7 @@
 
 ## Maker (sMKR)
 
-**Address:** [TGL1yLdo6Cyh7vKgGMrUHo5MXvCVRyjVCX](https://shasta.tronscan.io/addressTGL1yLdo6Cyh7vKgGMrUHo5MXvCVRyjVCX)
+**Address:** [TGL1yLdo6Cyh7vKgGMrUHo5MXvCVRyjVCX](https://shasta.tronscan.io/#/address/TGL1yLdo6Cyh7vKgGMrUHo5MXvCVRyjVCX)
 
 **Decimals:** 18
 
@@ -428,7 +428,7 @@
 
 ## Oikos (OKS)
 
-**Address:** [TCdYAEDsAdzUSfPScwtQojv621WbhqMwKz](https://shasta.tronscan.io/addressTCdYAEDsAdzUSfPScwtQojv621WbhqMwKz)
+**Address:** [TCdYAEDsAdzUSfPScwtQojv621WbhqMwKz](https://shasta.tronscan.io/#/address/TCdYAEDsAdzUSfPScwtQojv621WbhqMwKz)
 
 **Decimals:** 18
 
@@ -441,7 +441,7 @@
 
 ## Pound Sterling (sGBP)
 
-**Address:** [TAfdd625zag7TjwjPsb263f8hyosKKprJk](https://shasta.tronscan.io/addressTAfdd625zag7TjwjPsb263f8hyosKKprJk)
+**Address:** [TAfdd625zag7TjwjPsb263f8hyosKKprJk](https://shasta.tronscan.io/#/address/TAfdd625zag7TjwjPsb263f8hyosKKprJk)
 
 **Decimals:** 18
 
@@ -454,7 +454,7 @@
 
 ## Ripple (sXRP)
 
-**Address:** [TEiLfb4PJtJhPbCRx8hH7w47AhYDXigi2M](https://shasta.tronscan.io/addressTEiLfb4PJtJhPbCRx8hH7w47AhYDXigi2M)
+**Address:** [TEiLfb4PJtJhPbCRx8hH7w47AhYDXigi2M](https://shasta.tronscan.io/#/address/TEiLfb4PJtJhPbCRx8hH7w47AhYDXigi2M)
 
 **Decimals:** 18
 
@@ -467,7 +467,7 @@
 
 ## Silver Ounce (sXAG)
 
-**Address:** [TUH6jcYB7gFze6VK5icnkKg8Pf4wsJdCYf](https://shasta.tronscan.io/addressTUH6jcYB7gFze6VK5icnkKg8Pf4wsJdCYf)
+**Address:** [TUH6jcYB7gFze6VK5icnkKg8Pf4wsJdCYf](https://shasta.tronscan.io/#/address/TUH6jcYB7gFze6VK5icnkKg8Pf4wsJdCYf)
 
 **Decimals:** 18
 
@@ -480,7 +480,7 @@
 
 ## Swiss Franc (sCHF)
 
-**Address:** [TLeSniU5rJM5TCjWa52TKCnwMeJy3HQ6yx](https://shasta.tronscan.io/addressTLeSniU5rJM5TCjWa52TKCnwMeJy3HQ6yx)
+**Address:** [TLeSniU5rJM5TCjWa52TKCnwMeJy3HQ6yx](https://shasta.tronscan.io/#/address/TLeSniU5rJM5TCjWa52TKCnwMeJy3HQ6yx)
 
 **Decimals:** 18
 
@@ -493,7 +493,7 @@
 
 ## TRON (sTRX)
 
-**Address:** [TATt7QiRcrrhaoDhm2Xky3Yn7fjPWfRMdV](https://shasta.tronscan.io/addressTATt7QiRcrrhaoDhm2Xky3Yn7fjPWfRMdV)
+**Address:** [TATt7QiRcrrhaoDhm2Xky3Yn7fjPWfRMdV](https://shasta.tronscan.io/#/address/TATt7QiRcrrhaoDhm2Xky3Yn7fjPWfRMdV)
 
 **Decimals:** 18
 
@@ -506,7 +506,7 @@
 
 ## Tezos (sXTZ)
 
-**Address:** [TUtNubfPr8Bj3AoR1YdztJtXF8xXexvxGZ](https://shasta.tronscan.io/addressTUtNubfPr8Bj3AoR1YdztJtXF8xXexvxGZ)
+**Address:** [TUtNubfPr8Bj3AoR1YdztJtXF8xXexvxGZ](https://shasta.tronscan.io/#/address/TUtNubfPr8Bj3AoR1YdztJtXF8xXexvxGZ)
 
 **Decimals:** 18
 
@@ -519,7 +519,7 @@
 
 ## US Dollars (sUSD)
 
-**Address:** [TBFdp2jfMccwneRnbcobCa6txrxo1a1tvi](https://shasta.tronscan.io/addressTBFdp2jfMccwneRnbcobCa6txrxo1a1tvi)
+**Address:** [TBFdp2jfMccwneRnbcobCa6txrxo1a1tvi](https://shasta.tronscan.io/#/address/TBFdp2jfMccwneRnbcobCa6txrxo1a1tvi)
 
 **Decimals:** 18
 

@@ -140,7 +140,7 @@ const addOracleParameters = ({ asset, aggregator }) => {
 		);
 	return (
 		`**Price Feed**: Chainlink (decentralized)\n\n- Oracles: [Network overview](https://landing-feeds.surge.sh/${asset.toLowerCase()}-usd)` +
-		`\n- Contract: [Aggregator](https://shasta.tronscan.io/#/address${unhexlifyAddress(aggregator)})\n\n`
+		`\n- Contract: [Aggregator](https://shasta.tronscan.io/#/address/${unhexlifyAddress(aggregator)})\n\n`
 	);
 };
 
@@ -163,7 +163,7 @@ ${tokens
 			/*(asset === 'MKR'
 				? '!!! warning "Suspended"\n\t\tMKR has been suspended due to [SIP-34](https://sips.oikos.cash/sips/sip-34)\n\n'
 				: '') + */
-			`**Address:** [${unhexlifyAddress(address)}](https://shasta.tronscan.io/address${unhexlifyAddress(address)})\n\n` +
+			`**Address:** [${unhexlifyAddress(address)}](https://shasta.tronscan.io/#/address/${unhexlifyAddress(address)})\n\n` +
 			`**Decimals:** ${decimals}\n\n` +
 			addOracleParameters({ name, asset, aggregator }) +
 			addInverseParameters({ name, asset, inverted }) +
