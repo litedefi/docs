@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Oikos is a decentralised synthetic asset issuance protocol built on Ethereum. These synthetic assets are collateralized by the Oikos Network Token (OKS) which when locked in the contract enables the issuance of synthetic assets (Synths). This pooled collateral model enables users to perform conversions between Synths directly with the smart contract, avoiding the need for counterparties. This mechanism solves the liquidity and slippage issues experienced by DEX’s. Oikos currently supports synthetic fiat currencies, cryptocurrencies (long and short) and commodities. OKS holders are incentivised to stake their tokens as they are paid a pro-rata portion of the fees generated through activity on Oikos.Exchange, based on their contribution to the network. It is the right to participate in the network and capture fees generated from Synth exchanges, from which the value of the OKS token is derived. Trading on Oikos.Exchange does not require the trader to hold OKS.
+Oikos is a decentralised synthetic asset issuance protocol built on Tron. These synthetic assets are collateralized by the Oikos Network Token (OKS) which when locked in the contract enables the issuance of synthetic assets (Synths). This pooled collateral model enables users to perform conversions between Synths directly with the smart contract, avoiding the need for counterparties. This mechanism solves the liquidity and slippage issues experienced by DEX’s. Oikos currently supports synthetic fiat currencies, cryptocurrencies (long and short) and commodities. OKS holders are incentivised to stake their tokens as they are paid a pro-rata portion of the fees generated through activity on Oikos.Exchange, based on their contribution to the network. It is the right to participate in the network and capture fees generated from Synth exchanges, from which the value of the OKS token is derived. Trading on Oikos.Exchange does not require the trader to hold OKS.
 
 ## OKS as collateral
 
@@ -12,7 +12,7 @@ Oikos is a decentralised synthetic asset issuance protocol built on Ethereum. Th
 
 All Synths are backed by OKS tokens. Synths are minted when OKS holders stake their OKS as collateral using Minter, a decentralised application for interacting with the Oikos contracts. Synths are currently backed by a 800% collateralisation ratio, although this may be raised or lowered in the future through community governance mechanisms. OKS stakers incur debt when they mint Synths, and to exit the system (i.e. unlock their OKS) they must pay back this debt by burning Synths.
 
-Oikos is also currently trialling Ether as an alternative form of collateral. This means traders can borrow Synths against their TRX and begin trading immediately, rather than needing to sell their TRX. Staking TRX requires a collateralisation ratio of 150% and creates a debt denominated in TRX, so TRX stakers mint sTRX rather than sUSD and do not participate in the ‘pooled debt’ aspect of the system. In this model, TRX stakers do not receive fees or rewards as they take no risk for the debt pool.
+Oikos is also currently trialling TRX as an alternative form of collateral. This means traders can borrow Synths against their TRX and begin trading immediately, rather than needing to sell their TRX. Staking TRX requires a collateralisation ratio of 150% and creates a debt denominated in TRX, so TRX stakers mint sTRX rather than sUSD and do not participate in the ‘pooled debt’ aspect of the system. In this model, TRX stakers do not receive fees or rewards as they take no risk for the debt pool.
 
 **Why OKS holders stake**
 
@@ -52,7 +52,7 @@ Trading on Oikos.Exchange provides many advantages over centralised exchanges an
 
 **How Synths work**
 
-Synths are synthetic assets that track the price of the underlying asset. They allow holders to gain exposure on Ethereum to various asset classes without holding the underlying assets themselves or trusting a custodian. Synths are backed by the Oikos Network Token (OKS), which is staked as collateral at a ratio of 800%.
+Synths are synthetic assets that track the price of the underlying asset. They allow holders to gain exposure on Tron to various asset classes without holding the underlying assets themselves or trusting a custodian. Synths are backed by the Oikos Network Token (OKS), which is staked as collateral at a ratio of 800%.
 
 **The current Synths**
 
@@ -144,7 +144,7 @@ There are several risks in the current architecture, as Oikos is still an experi
 
 One risk involves the debt OKS holders issue when they stake their OKS and mint Synths. As previously explained, this debt can fluctuate due to exchange rate shifts within the system. This means that to exit the system and unlock their staked OKS, they may need to burn more Synths than they originally minted.
 
-Most people in the cryptocurrency space are aware of this risk, but the prices of most cryptoassets are highly correlated to Bitcoin and/or Ethereum. This means it’s possible for major price fluctuations in the OKS token to occur for reasons that have little to do with OKS or the Oikos system.
+Most people in the cryptocurrency space are aware of this risk, but the prices of most cryptoassets are highly correlated to Bitcoin and/or Tron. This means it’s possible for major price fluctuations in the OKS token to occur for reasons that have little to do with OKS or the Oikos system.
 
 Finally, there are a number of aspects of the system that are currently centralised. This decision has been made to ensure efficient implementation of the project. One example of centralisation is the use of proxy contracts across much of the architecture. This is to ensure the system can be upgraded easily but confers a level of control to the engineering team which requires trust from users. While these aspects will be phased out over time, it is important to understand the risks inherent in the current system architecture.
 
@@ -174,4 +174,4 @@ The current version of Oikos.Exchange supports only market orders which limits t
 
 ## Conclusion
 
-Oikos has already delivered one of the most complex and useful protocols built on Ethereum to date. But the potential for censorship-resistant synthetic assets is still largely untapped. Further improvements to the mechanism as well as functional upgrades and new Synths will vastly increase the utility of the platform. Movement to a decentralised governance process will also reduce systemic risk and increase the long term viability of the project.
+Oikos has already delivered one of the most complex and useful protocols built on Tron to date. But the potential for censorship-resistant synthetic assets is still largely untapped. Further improvements to the mechanism as well as functional upgrades and new Synths will vastly increase the utility of the platform. Movement to a decentralised governance process will also reduce systemic risk and increase the long term viability of the project.
