@@ -85,7 +85,7 @@ A list of factors indicating, for each [debt-modifying event](#appenddebtledgerv
 
 ### `importedXDRAmount`
 
-The XDR-equivalent debt of `sUSD` imported which was outstanding immediately before the multicurrency transition.
+The ODR-equivalent debt of `sUSD` imported which was outstanding immediately before the multicurrency transition.
 
 **Type:** `uint public`
 
