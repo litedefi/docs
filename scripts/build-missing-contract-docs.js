@@ -5,8 +5,8 @@ const fs = require('fs');
 
 const snx = require('@oikos/oikos');
 
-// const network = 'mainnet';
-const network = 'shasta';
+const network = 'mainnet';
+// const network = 'shasta';
 const sources = snx.getSource({ network });
 
 const getPathFromSource = ({ source }) => path.join(__dirname, '..', 'content', 'contracts', `${source}.md`);

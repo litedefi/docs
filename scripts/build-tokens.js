@@ -6,8 +6,8 @@ const numbro = require('numbro');
 const snx = require('@oikos/oikos');
 const tronWeb = require('tronweb');
 
-// const network = 'mainnet';
-const network = 'shasta';
+const network = 'mainnet';
+// const network = 'shasta';
 const targets = snx.getTarget({ network });
 const synths = snx.getSynths({ network });
 
@@ -84,9 +84,7 @@ const tokens = [
 		.sort((a, b) => (a.symbol > b.symbol ? 1 : -1)),
 );
 
-const unhexlifyAddress = (address) =>
-	 tronWeb.address.fromHex(address);
-
+const unhexlifyAddress = address => tronWeb.address.fromHex(address);
 
 const format = num =>
 	numbro(num).format({
@@ -135,12 +133,14 @@ const addOracleParameters = ({ asset, aggregator }) => {
 	const snxOracle = '41aad3910a630b033cef3b1f8ea1eb93a71e5f7376';
 	if (!aggregator)
 		return (
-			`**Price Feed**: Oikos (centralized)\n\n- Oracle: [${unhexlifyAddress(snxOracle)}](https://shasta.tronscan.io/#/address/${unhexlifyAddress(snxOracle)})` +
+			`**Price Feed**: Oikos (centralized)\n\n- Oracle: [${unhexlifyAddress(
+				snxOracle,
+			)}](https://tronscan.io/#/address/${unhexlifyAddress(snxOracle)})` +
 			'\n- Contract: [ExchangeRates](https://contracts.oikos.cash/ExchangeRates)\n\n'
 		);
 	return (
 		`**Price Feed**: Chainlink (decentralized)\n\n- Oracles: [Network overview](https://landing-feeds.surge.sh/${asset.toLowerCase()}-usd)` +
-		`\n- Contract: [Aggregator](https://shasta.tronscan.io/#/address/${unhexlifyAddress(aggregator)})\n\n`
+		`\n- Contract: [Aggregator](https://tronscan.io/#/address/${unhexlifyAddress(aggregator)})\n\n`
 	);
 };
 
@@ -150,20 +150,19 @@ const addOracleParameters = ({ asset, aggregator }) => {
 		This change is coming with [SIP-36](https://sips.oikos.cash/sips/sip-36).
 */
 
-
 const content = `
 # Tokens
 
 ${tokens
 	.sort((a, b) => (a.name > b.name ? 1 : -1))
 	.map(
-		({ name, asset, symbol, address, decimals, description, index, inverted, aggregator }) => 
+		({ name, asset, symbol, address, decimals, description, index, inverted, aggregator }) =>
 			`## ${name} (${symbol})\n\n` +
 			// Note: Manual addition of SIP-34 check of MKR
 			/*(asset === 'MKR'
 				? '!!! warning "Suspended"\n\t\tMKR has been suspended due to [SIP-34](https://sips.oikos.cash/sips/sip-34)\n\n'
 				: '') + */
-			`**Address:** [${unhexlifyAddress(address)}](https://shasta.tronscan.io/#/address/${unhexlifyAddress(address)})\n\n` +
+			`**Address:** [${unhexlifyAddress(address)}](https://tronscan.io/#/address/${unhexlifyAddress(address)})\n\n` +
 			`**Decimals:** ${decimals}\n\n` +
 			addOracleParameters({ name, asset, aggregator }) +
 			addInverseParameters({ name, asset, inverted }) +
