@@ -20,8 +20,8 @@
 	},
 	"homepage": "https://github.com/oikos-cash/docs#readme",
 	"dependencies": {
-		"@oikos/oikos": "^0.1.0",
-		"@oikos/oikos-js": "^0.1.1",
+		"@oikos/oikos": "^0.2.0",
+		"@oikos/oikos-js": "^0.2.0",
 		"axios": "~0.19.2",
 		"moment": "~2.24.0",
 		"numbro": "2.1.2",
