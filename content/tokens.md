@@ -3,7 +3,7 @@
 
 ## Australian Dollars (sAUD)
 
-**Address:** [TFDj7DsePURcKrGPuWjCwij9UVov7tF7pQ](https://tronscan.io/#/address/TFDj7DsePURcKrGPuWjCwij9UVov7tF7pQ)
+**Address:** [THaX5DngVKogRLFhJAdZhbDyi9Ly9aXPxM](https://tronscan.io/#/address/THaX5DngVKogRLFhJAdZhbDyi9Ly9aXPxM)
 
 **Decimals:** 18
 
@@ -16,7 +16,7 @@
 
 ## Bitcoin (sBTC)
 
-**Address:** [TTpwHqjjoRDr3TM4GTXgGtJsDFgUKuFVgw](https://tronscan.io/#/address/TTpwHqjjoRDr3TM4GTXgGtJsDFgUKuFVgw)
+**Address:** [TLqpjweb7VzQTwN5Es4aC1g5zJetNVdeKN](https://tronscan.io/#/address/TLqpjweb7VzQTwN5Es4aC1g5zJetNVdeKN)
 
 **Decimals:** 18
 
@@ -29,7 +29,7 @@
 
 ## Ether (sETH)
 
-**Address:** [TCfzefvtqD29ziQBWvoQHN3q5wxB1UtNeB](https://tronscan.io/#/address/TCfzefvtqD29ziQBWvoQHN3q5wxB1UtNeB)
+**Address:** [TW7HwUGDnWzRYbqF72tNMBMT9H6mz5aAsM](https://tronscan.io/#/address/TW7HwUGDnWzRYbqF72tNMBMT9H6mz5aAsM)
 
 **Decimals:** 18
 
@@ -42,7 +42,7 @@
 
 ## Euros (sEUR)
 
-**Address:** [TFNhdyaDdmdbFiTB31RcmTHtJcHMQS2xaJ](https://tronscan.io/#/address/TFNhdyaDdmdbFiTB31RcmTHtJcHMQS2xaJ)
+**Address:** [TKeieYHfR8tVAMxzEvGiVwE3SdBUniRHXA](https://tronscan.io/#/address/TKeieYHfR8tVAMxzEvGiVwE3SdBUniRHXA)
 
 **Decimals:** 18
 
@@ -55,7 +55,7 @@
 
 ## Inverted Bitcoin (iBTC)
 
-**Address:** [TJXVjb9D5SDdgNTbXwbU8ak23nNPu6AN46](https://tronscan.io/#/address/TJXVjb9D5SDdgNTbXwbU8ak23nNPu6AN46)
+**Address:** [TSyJxmT6ALc8f6jkUEriguM3CBgoox9i3o](https://tronscan.io/#/address/TSyJxmT6ALc8f6jkUEriguM3CBgoox9i3o)
 
 **Decimals:** 18
 
@@ -74,7 +74,7 @@
 
 ## Inverted Ether (iETH)
 
-**Address:** [TFviwDaenXS2gTapHaP12xJFJJWWTRfkRf](https://tronscan.io/#/address/TFviwDaenXS2gTapHaP12xJFJJWWTRfkRf)
+**Address:** [TPS2gHrpN1rdX91WCFJmhUwFiKjk3AKYEe](https://tronscan.io/#/address/TPS2gHrpN1rdX91WCFJmhUwFiKjk3AKYEe)
 
 **Decimals:** 18
 
@@ -93,7 +93,7 @@
 
 ## Inverted Tron (iTRX)
 
-**Address:** [TRSUaXyP3MsHxmRTCoxjQKDjkZ1Gj1qgm9](https://tronscan.io/#/address/TRSUaXyP3MsHxmRTCoxjQKDjkZ1Gj1qgm9)
+**Address:** [TDGUNpmWjH5M3DJUXgpKSqH1NMsvbxgQPg](https://tronscan.io/#/address/TDGUNpmWjH5M3DJUXgpKSqH1NMsvbxgQPg)
 
 **Decimals:** 18
 
@@ -112,7 +112,7 @@
 
 ## Oikos (OKS)
 
-**Address:** [TR9VosbSynm5nNue7ksp8zqovCudHJNnn4](https://tronscan.io/#/address/TR9VosbSynm5nNue7ksp8zqovCudHJNnn4)
+**Address:** [TRWtzcjYrPkkiFUwxgs3ataxtwcCvn2nS5](https://tronscan.io/#/address/TRWtzcjYrPkkiFUwxgs3ataxtwcCvn2nS5)
 
 **Decimals:** 18
 
@@ -125,7 +125,7 @@
 
 ## Pound Sterling (sGBP)
 
-**Address:** [TV97Uz6wbEAuM4kVEMC7L7URCZoZ5g9ZXZ](https://tronscan.io/#/address/TV97Uz6wbEAuM4kVEMC7L7URCZoZ5g9ZXZ)
+**Address:** [TYfGHAoUr5PZPQBP9broGXg5uLqvULNdRK](https://tronscan.io/#/address/TYfGHAoUr5PZPQBP9broGXg5uLqvULNdRK)
 
 **Decimals:** 18
 
@@ -138,7 +138,7 @@
 
 ## Swiss Franc (sCHF)
 
-**Address:** [TW1CG8LiaFkEJANV8SEDa45DZBnCmKPtTW](https://tronscan.io/#/address/TW1CG8LiaFkEJANV8SEDa45DZBnCmKPtTW)
+**Address:** [TTP7Gw3JmYKDogxv5R94KMzroqc3eM2isM](https://tronscan.io/#/address/TTP7Gw3JmYKDogxv5R94KMzroqc3eM2isM)
 
 **Decimals:** 18
 
@@ -151,7 +151,7 @@
 
 ## TRON (sTRX)
 
-**Address:** [TFGdARAi6tDymvFBes5Qajhaf67ysSmwKz](https://tronscan.io/#/address/TFGdARAi6tDymvFBes5Qajhaf67ysSmwKz)
+**Address:** [TAJYP91N4HbFSHFbaENvDfEa4kPEgcz4Kg](https://tronscan.io/#/address/TAJYP91N4HbFSHFbaENvDfEa4kPEgcz4Kg)
 
 **Decimals:** 18
 
@@ -164,7 +164,7 @@
 
 ## US Dollars (sUSD)
 
-**Address:** [TY46yPvHK4vunZDFhiQpeGpK8qy9zY4RCX](https://tronscan.io/#/address/TY46yPvHK4vunZDFhiQpeGpK8qy9zY4RCX)
+**Address:** [TNSFtugghgaW5YGef6E6vvhTYjnnNZRDmM](https://tronscan.io/#/address/TNSFtugghgaW5YGef6E6vvhTYjnnNZRDmM)
 
 **Decimals:** 18
 
