@@ -1,6 +1,6 @@
 # Litepaper
 
-**Version**: 1.4 (March 2020)
+**Version**: 1.4 (May 2020)
 
 ## Abstract
 
@@ -16,7 +16,7 @@ Oikos is also currently trialling TRX as an alternative form of collateral. This
 
 **Why OKS holders stake**
 
-OKS holders are incentivised to stake their tokens and mint Synths in several ways. Firstly, there are exchange rewards. These are generated whenever someone exchanges one Synth to another (i.e. on Oikos.Exchange). Each trade generates an exchange fee that is sent to a fee pool, available for OKS stakers to claim their proportion each week. This fee is between 10-100 bps (0.1% - 1%, though typically 0.3%), and will be displayed during any trade on Oikos.Exchange. The other incentive for OKS holders to stake/mint is OKS staking rewards, which comes from the protocol’s inflationary monetary policy. From March 2019 to August 2023, the total OKS supply will increase from 100,000,000 to 260,263,816, with a weekly decay rate of 1.25% (from December 2019). From September 2023, there will be an annual 2.5% terminal inflation for perpetuity. These OKS tokens are distributed to OKS stakers weekly on a pro-rata basis provided their collateralisation ratio does not fall below the target threshold.
+OKS holders are incentivised to stake their tokens and mint Synths in several ways. Firstly, there are exchange rewards. These are generated whenever someone exchanges one Synth to another (i.e. on Oikos.Exchange). Each trade generates an exchange fee that is sent to a fee pool, available for OKS stakers to claim their proportion each week. This fee is between 10-100 bps (0.1% - 1%, though typically 0.3%), and will be displayed during any trade on Oikos.Exchange. The other incentive for OKS holders to stake/mint is OKS staking rewards, which comes from the protocol’s inflationary monetary policy. OKS tokens have a built-in inflationary supply schedule. Starting the first year, 1,442,308 OKS will be added every week, with a decay rate of 1.25% starting at week 40 and running for 194 weeks. At week 234, a terminal rate of 2.5% perpetual inflation will be reached. These OKS tokens are distributed to OKS stakers weekly on a pro-rata basis provided their collateralisation ratio does not fall below the target threshold.
 
 **Minting, burning, and the C-Ratio**
 

@@ -2,7 +2,7 @@ Here is the list of all contracts within the current Oikos system.
 
 **Version**: [v0.4.0](https://github.com/oikos-cash/oikos/tree/v0.4.0)
 
-**Docs Built**: Apr 30, 2020
+**Docs Built**: Apr 29, 2020
 
 
 
