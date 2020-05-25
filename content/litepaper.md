@@ -134,7 +134,7 @@ If a staker burns all their debt, their issuance data in the Debt Register will 
 
 **The oracle**
 
-The value of all synthetic assets in the Oikos system are currently determined by oracles that push price feeds on-chain. It uses an algorithm with a variety of sources to form an aggregate value for each asset. The price feeds are currently supplied by both Chainlink’s independent node operators and Oikos, and will soon all be supplied by Chainlink.
+The value of all synthetic assets in the Oikos system are currently determined by oracles that push price feeds on-chain. It uses an algorithm with a variety of sources to form an aggregate value for each asset. The price feeds are currently supplied by Oikos, and will soon all be supplied by Chainlink.
 
 ## Current Risks and Risk Mitigation Strategies
 
