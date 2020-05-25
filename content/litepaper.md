@@ -150,7 +150,7 @@ Finally, there are a number of aspects of the system that are currently centrali
 
 **Risk mitigation strategies**
 
-As a decentralised protocol, the Oikos team is committed to decentralisation and censorship resistance — this will be a gradual process as the system matures. This includes crucial areas such as our price feeds. We have previously announced a partnership with Chainlink, a provider of decentralised oracle solutions.
+As a decentralised protocol, the Oikos team is committed to decentralisation and censorship resistance — this will be a gradual process as the system matures. This includes crucial areas such as our price feeds. We will are planning to eventually use Chainlink, a provider of decentralised oracle solutions.
 
 Another important area is governance, we have recently initiated regular community governance calls to ensure the project’s goals are aligned with the community. Another aspect of this process is a move to a formal change management process, we have introduced SIP’s (Oikos Improvement Proposals) to allow the community to introduce change requests and to ensure that any changes to the system are well understood and considered by all stakeholders.
 
