@@ -10,7 +10,7 @@ Exchange fees are generated whenever a user exchanges one synthetic asset (Synth
 
 ### OKS Staking Rewards
 
-OKS staking rewards are generated through the inflationary monetary policy implemented in March 2018. At the same time as they claim their exchange fees stakers can claim their staking rewards, which are escrowed for a year. The OKS staking rewards enabled by the inflationary supply are set to decrease gradually until September 2023, where it will become a 2.5% annual terminal inflation rate.
+OKS staking rewards are generated through the inflationary monetary policy. At the same time as they claim their exchange fees stakers can claim their staking rewards, which are escrowed for a year. The OKS staking rewards enabled by the inflationary supply are set to decrease gradually until December 2024, where it will become a 2.5% annual terminal inflation rate.
 
 ### Liquidity Rewards
 
