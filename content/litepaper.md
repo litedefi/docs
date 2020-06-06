@@ -2,6 +2,8 @@
 
 **Version**: 1.4 (May 2020)
 
+**Translations**: [中文 (Mandarin)](./litepaper-zh.pdf)
+
 ## Abstract
 
 Oikos is a decentralised synthetic asset issuance protocol built on Tron. These synthetic assets are collateralized by the Oikos Network Token (OKS) which when locked in the contract enables the issuance of synthetic assets (Synths). This pooled collateral model enables users to perform conversions between Synths directly with the smart contract, avoiding the need for counterparties. This mechanism solves the liquidity and slippage issues experienced by DEX’s. Oikos currently supports synthetic fiat currencies, cryptocurrencies (long and short) and commodities. OKS holders are incentivised to stake their tokens as they are paid a pro-rata portion of the fees generated through activity on Oikos.Exchange, based on their contribution to the network. It is the right to participate in the network and capture fees generated from Synth exchanges, from which the value of the OKS token is derived. Trading on Oikos.Exchange does not require the trader to hold OKS.
