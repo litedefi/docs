@@ -20,11 +20,11 @@ Welcome to the Oikos system documentation. These pages contain a description of 
 ## dApps
 
 - **Oikos.Exchange:** [Oikos Exchange](https://oikos.exchange) allows users to trade synths, and to buy sUSD with ether.The source code for Oikos.Exchange can be found at @oikos-cash/exchange.
-- **Minter:** [Minter](https:/minter.oikos.cash) is a dApp for OKS holders to participate in the Oikos Network. Using Minter, users can mint and burn Synths, monitor their collateralisation levels, buy and sell sUSD through the [Depot](contracts/Depot.md), claim their staking rewards, and vest any OKS they have accrued from the token sale or by staking.
+- **Minter:** [Minter](https://minter.oikos.cash) is a dApp for OKS holders to participate in the Oikos Network. Using Minter, users can mint and burn Synths, monitor their collateralisation levels, buy and sell sUSD through the [Depot](contracts/Depot.md), claim their staking rewards, and vest any OKS they have accrued from the token sale or by staking.
 
 ## Integrations
 
-- **Oikos Swap:** [Oikos Swap](https://swap.oikos.cash/) is a decentralised exchange for exchanging TRX and TRC20 tokens. Oikos runs it to deepen the Oikos ecosystem's liquidity, and to use it as an on-ramp/off-ramp for the Synth market. Users who provide liquidity to the [TRX/sTRX pool](https://uniswap.exchange/swap/0x42456D7084eacF4083f1140d3229471bbA2949A8) are provided with staking rewards as part of the Oikos protocol.
+- **Oikos Swap:** [Oikos Swap](https://swap.oikos.cash/) is a decentralised exchange for exchanging TRX and TRC20 tokens. Oikos runs it to deepen the Oikos ecosystem's liquidity, and to use it as an on-ramp/off-ramp for the Synth market. Users who provide liquidity to the [pool](https://swap.oikos.cash/add-liquidity) are provided with staking rewards as part of the Oikos protocol.
 
 ## Get In Touch
 
