@@ -106,9 +106,9 @@
 
 | Entry Point | Upper Limit | Lower Limit |
 | - | - | - |
-| $0.01500 | $0.10000 | $0.00500|
+| $0.01500 | $0.02800 | $0.00500|
 
->Inversely tracks the price of Tron (TRX) through price feeds supplied by an oracle. The entry point is $0.015 (the approximate market price at time of creation). This Synth freezes when it reaches its upper limit of $0.1 (i.e. when Tron's value reaches $-0.1) or its lower limit of $0.005 (i.e. when Tron’s value reaches $0.025). If it reaches either of its limits and gets frozen, it will no longer be able to be purchased on Oikos.Exchange, but can still be traded for other Synths at its frozen value. At some point after it has reached either of its limits, it will be substituted for another iTRX with different limits.
+>Inversely tracks the price of Tron (TRX) through price feeds supplied by an oracle. The entry point is $0.015 (the approximate market price at time of creation). This Synth freezes when it reaches its upper limit of $0.028 (i.e. when Tron's value reaches $0.002) or its lower limit of $0.005 (i.e. when Tron’s value reaches $0.025). If it reaches either of its limits and gets frozen, it will no longer be able to be purchased on Oikos.Exchange, but can still be traded for other Synths at its frozen value. At some point after it has reached either of its limits, it will be substituted for another iTRX with different limits.
 
 ## Oikos (OKS)
 
