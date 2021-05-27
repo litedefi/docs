@@ -1,4 +1,4 @@
-# Oikos System Documentation
+# LiteDeFi System Documentation
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/903adf02-eab2-4647-b916-99f36ef19c85/deploy-status)](https://app.netlify.com/sites/oikos-docs/deploys)
 
